@@ -1,0 +1,52 @@
+body {
+  background-color: rgb(228, 228, 192);
+}
+p {
+  padding-left: 10px;
+}
+.qwe {
+  max-width: 100%;
+  padding-left: 35%;
+  border-radius: 50px;
+  box-shadow: 3px 3px 57px rgb(17, 0, 255);
+}
+.asd {
+  max-width: 100%;
+  padding-left: 35%;
+  border-radius: 100 %;
+  opacity: 0.9;
+  box-shadow: 3px 3px 57px green;
+  border-radius: 50px;
+}
+.zxc {
+  max-width: 100%;
+  padding-left: 35%;
+  box-shadow: 3px 3px 57px red;
+  border-radius: 50px;
+}
+#Google.com {
+  color: brown;
+}
+.golden {
+  border: 1px solid;
+  padding-left: 50%;
+  font-size: 20px;
+  background-color: green;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.world {
+  border: 1px solid;
+  padding-left: 50%;
+  font-size: 20px;
+  background-color: orange;
+  padding: 10 10 10 15;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: -10px;
+}
+.world:hover {
+  border: 10px solid;
+  transform: rotate(90deg);
+  transition: 5s all;
+}
